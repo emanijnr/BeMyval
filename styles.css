@@ -1,0 +1,21 @@
+
+    </style>
+</head>
+<body>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4ZTdrN3R4bWp1NzZ2ZnhidXI2aTV6djRtdGZvZ3JneG5vZ2YxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9EmXxglhdhAj1bo28/giphy.gif" alt="Cute GIF" class="top-gif">
+
+    <div class="container">
+        <h1 class="question">KYLIE, WILL YOU BE MY VALENTINE ?! ❤️😊</h1>
+        <div class="buttons">
+            <button id="yesBtn">Yes! 😊</button>
+            <button id="noBtn">No 😢</button>
+        </div>
+        <div id="response" class="hidden">
+            <h2>Yay! Can't wait to celebrate together! 🎉💖</h2>
+            <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Happy GIF" class="big-gif">
+            <br>
+            <img src="https://media.giphy.com/media/P3CZolxd8DeRy4g4fM/giphy.gif" alt="Hug GIF" class="big-gif">
+        </div>
+    </div>
+
+   
